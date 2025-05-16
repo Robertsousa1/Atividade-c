@@ -2,6 +2,6 @@
 
 Fonte: programiz
 
-Questões do IFSC :95 Questoes
+Questões do IFSC :95 Questões
 
-Questoões do PUCRS :55 Questoes
+Questoões do PUCRS :55 Questões
